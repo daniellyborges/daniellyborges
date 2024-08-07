@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm a fullstack developer passionate about creating innovative and efficient solutions.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm a fullstack web developer passionate about creating innovative and efficient solutions.</p>
 
 ###
 
